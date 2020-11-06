@@ -1,0 +1,19 @@
+{
+  "name": "test-api",
+  "version": "1.0.0",
+  "description": "test api for learning",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jbulawan/test-repo.git"
+  },
+  "author": "J. Bulawan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jbulawan/test-repo/issues"
+  },
+  "homepage": "https://github.com/jbulawan/test-repo#readme"
+}
