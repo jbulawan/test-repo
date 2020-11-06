@@ -1,4 +1,1 @@
-
-console.log('Hello World!');
-
-console.log('This is a change in code');
+console.log('Hello Hi!');
